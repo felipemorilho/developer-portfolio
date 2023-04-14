@@ -1,9 +1,9 @@
 {
-  "nome": "Felipe M. de Castro",
+  "name": "Felipe M. de Castro",
   "photo": "https://avatars.githubusercontent.com/u/103529867?v=4",
   "job": "Desenvolvedor Junior",
-  "localidade": "Penha - SC",
-  "telefone": "(47) 99940-6781",
+  "location": "Penha - SC",
+  "phone": "(47) 99940-6781",
   "email": "felipemdecastro@gmail.com",
   "skills": {
     "hardSkills": [
