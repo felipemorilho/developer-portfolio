@@ -40,19 +40,10 @@
       "Resolução de Problemas"
     ]
   },
-  "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
-    }
+  "languages": [
+    "Português BR",
+    "Inglês (Avançado)",
+    "Espanhol (Básico)"
   ],
   "educacao": [
     {
