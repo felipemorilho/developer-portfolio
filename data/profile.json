@@ -107,17 +107,17 @@
   ],
   "portfolio": [
     {
-      "nome": "API App Status Viajante",
+      "name": "API App Status Viajante",
       "gitHub": "https://github.com/felipemorilho/StatusViajante",
       "git": true
     },
     {
-      "nome": "Front End App Status Viajante",
+      "name": "Front End App Status Viajante",
       "gitHub": "https://github.com/felipemorilho/statusViajanteFront",
       "git": true
     },
     {
-      "nome": "Site dinamico Pessoal (DIO)",
+      "name": "Site dinamico Pessoal (DIO)",
       "gitHub": "https://github.com/felipemorilho/developer-portfolio",
       "git": true
     }
