@@ -21,15 +21,15 @@
       },
       {
         "name": "Android",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/felipemorilho/developer-portfolio/projeto-base/data/imgs/android.png"
       },
       {
         "name": "Spring",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/felipemorilho/developer-portfolio/7c57147ae6eaa547f5f3be0afa7bb1d78b1b4242/data/imgs/spring.svg"
       },
       {
-        "name": "GitHub",
-        "logo": "TODO"
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/felipemorilho/developer-portfolio/projeto-base/data/imgs/sql.png"
       }
     ],
     "softSkills": [
