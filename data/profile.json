@@ -1,13 +1,10 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "nome": "Felipe M. de Castro",
+  "photo": "https://avatars.githubusercontent.com/u/103529867?v=4",
+  "job": "Desenvolvedor Junior",
+  "localidade": "Penha - SC",
+  "telefone": "(47) 99940-6781",
+  "email": "felipemdecastro@gmail.com",
   "skills": {
     "hardSkills": [
       {
