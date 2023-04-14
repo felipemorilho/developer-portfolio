@@ -8,15 +8,27 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/felipemorilho/developer-portfolio/projeto-base/data/imgs/java.png"
+      },
+      {
+        "name": "Kotlin",
+        "logo": "https://raw.githubusercontent.com/felipemorilho/developer-portfolio/projeto-base/data/imgs/kotlin.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/felipemorilho/developer-portfolio/projeto-base/data/imgs/js.png"
+      },
+      {
+        "name": "Android",
         "logo": "TODO"
       },
       {
-        "nome": "Java",
+        "name": "Spring",
         "logo": "TODO"
       },
       {
-        "nome": "Kotlin",
+        "name": "GitHub",
         "logo": "TODO"
       }
     ],
