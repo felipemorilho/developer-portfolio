@@ -122,15 +122,21 @@
       "github": true
     }
   ],
-  "experiencias": [
+  "experience": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
+      "name": "Gerente Geral / Restaurante do Goiano",
+      "period":"Dez/2021 - Atualmente",
+      "description": "Gerenciamento de equipe \nControle de Estoque \nAtendimento ao Cliente \nControle de Caixa"
+    },
+    {
+      "name": "Técnico de Qualidade e Seguança do Produto / Elevadores Atlas Schindler",
+      "period":"Fev/2020 - Nov/2021",
+      "description": "Testes de qualidade e Segurança em equipamentos da carteira da empresa. \nTestes de Qualidade em novos equipamentos para entrega ao cliente"
+    },
+    {
+      "name": "Gerente Geral / Empresas de Familiar",
+      "period":"Dez/2017 - Fev/2020",
+      "description": "Gerenciamento da equipe \nControle de Estoque \nAtendimento ao Cliente \nControle de Caixa"
     }
   ]
 }

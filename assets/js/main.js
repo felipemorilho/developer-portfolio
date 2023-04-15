@@ -51,17 +51,17 @@ function updatePortfolio(profileData) {
         }).join('')
 }
 
-function upddateExperience(profileData) {
+function updateExperience(profileData) {
+        debugger
         const experience = document.getElementById('profile.experience')
         experience.innerHTML = profileData.experience.map(jobs => {
         return `
         <li>
-                <h3 class="title" id="profile.experience.name">Front-end Developer / dio.me</h3>
-                <p class="period" id="profile.experience.period">Jan 2020 - Current</p>
-                <p id="profile.experience.description">
-                        Descrição
-                </p>
-        </li>`
+                <h3 class="title">${jobs.name}</h3>
+                <p class="period">${jobs.period}</p>
+                <p>${jobs.description}</p>
+        </li>
+        `
         }).join('')
 }
 
@@ -72,5 +72,6 @@ function upddateExperience(profileData) {
         updateHardSkills(profileData)
         updateLanguages(profileData)
         updatePortfolio(profileData)
+        updateExperience(profileData)
 })()
 
